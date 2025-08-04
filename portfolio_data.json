@@ -1,0 +1,143 @@
+{
+  "personal": {
+    "name": "ADITI PRIYA",
+    "location": "Pune, Maharashtra",
+    "email": "aditipriya838@gmail.com",
+    "phone": "+91-96311-89434",
+    "linkedin": "Aditi Priya"
+  },
+  "work_experience": [
+    {
+      "title": "Chief of Staff",
+      "company": "Mighty",
+      "location": "Hybrid \u2013 Pune",
+      "duration": "Dec 2024 \u2013 Present",
+      "achievements": [
+        "Handled front-line conversations for Mighty's household-operations product",
+        "Mapped 40+ service pain-points and created EA hiring plan and SOPs",
+        "Built ICP list of 150 D2C brands, secured 25 founder interviews",
+        "Validated product direction at Shoptalk 2025",
+        "Prototyped real-time brand-analytics dashboard from user insight"
+      ],
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel/Sheets",
+        "Prompt Engineering",
+        "Project Management"
+      ]
+    },
+    {
+      "title": "Business Associate (Founder's Office)",
+      "company": "ZenTrades.ai",
+      "location": "On-site \u2013 Pune",
+      "duration": "Jun 2024 \u2013 Dec 2024",
+      "achievements": [
+        "Led seed fundraising research: developed thesis, built target investor lists",
+        "Conducted 60+ conversations",
+        "Refined investment narratives and teaser decks for pitching"
+      ],
+      "skills": [
+        "Fundraising",
+        "Pitch Analysis",
+        "Investor Relations"
+      ]
+    },
+    {
+      "title": "Business Development Trainee",
+      "company": "Scaler Academy",
+      "location": "Remote \u2013 Bengaluru",
+      "duration": "Jan 2024 \u2013 Mar 2024",
+      "achievements": [
+        "Delivered 50+ client presentations",
+        "Used CRM (Leadsquared) to convert leads",
+        "Customized program recommendations through need analysis"
+      ],
+      "skills": [
+        "Lead Generation",
+        "CRM Tools",
+        "Market Research"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "B.Tech., CSSE",
+    "university": "KIIT University, Bhubaneswar",
+    "year": "2024"
+  },
+  "technical_skills": {
+    "languages": [
+      "C++",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "Tailwind CSS"
+    ],
+    "coursework": [
+      "DBMS",
+      "Data Analytics",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "tools": [
+      "VSCode",
+      "PyCharm",
+      "Canva",
+      "Figma"
+    ]
+  },
+  "operational_skills": {
+    "sales_automation": [
+      "Clay",
+      "Apollo",
+      "Leadsquared"
+    ],
+    "soft_skills": [
+      "Communication",
+      "Problem Solving",
+      "Leadership",
+      "Time Management"
+    ],
+    "interpersonal": [
+      "Operations Management",
+      "Management Consulting",
+      "Business Analysis"
+    ]
+  },
+  "projects": [
+    {
+      "name": "PERSONIFY.AI",
+      "description": "Developed a chatbot model that enables interactive conversations with fictional characters and realistic impersonation of a specific public figure's persona",
+      "details": [
+        "Gathered and preprocessed a diverse corpus of textual data, including an autobiography and memoir, totaling over 50,000 sentences",
+        "Trained a language model, GPT-2, using TensorFlow and the Hugging Face library"
+      ],
+      "technologies": [
+        "Beautiful Soup",
+        "NLTK",
+        "TensorFlow",
+        "Hugging Face"
+      ]
+    },
+    {
+      "name": "DERMNET",
+      "description": "Developed a skin-disease detector using DERMNet and HAM10000 datasets",
+      "details": [
+        "Training multiple models with various loss functions and hyperparameters",
+        "Built an image-classification pipeline achieving top-1 accuracy 87% and top-5 accuracy 96%",
+        "Cleaned & preprocessed dataset with data augmentation and pixel-value scaling"
+      ],
+      "technologies": [
+        "TensorFlow",
+        "NumPy",
+        "Matplotlib"
+      ]
+    }
+  ]
+}
